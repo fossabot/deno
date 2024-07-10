@@ -1,4 +1,6 @@
 # Deno
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJimJoJo2020%2Fdeno.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJimJoJo2020%2Fdeno?ref=badge_shield)
+
 
 [![](https://img.shields.io/crates/v/deno.svg)](https://crates.io/crates/deno)
 [![Twitter badge][]][Twitter link] [![Discord badge][]][Discord link]
@@ -98,3 +100,7 @@ We appreciate your help! To contribute, please read our
 [YouTube link]: https://www.youtube.com/@deno_land
 [Discord badge]: https://img.shields.io/discord/684898665143206084?logo=discord&style=social
 [Discord link]: https://discord.gg/deno
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJimJoJo2020%2Fdeno.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJimJoJo2020%2Fdeno?ref=badge_large)
